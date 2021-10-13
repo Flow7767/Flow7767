@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Flow7767
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Biomedical Engineering 
 - 📫 How to reach me florent.cremel@ucdconnect.ie or https://www.linkedin.com/in/florent-cremel/
 <!---
